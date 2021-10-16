@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Web development
 - 📫 How to reach me: anagabrieladev@gmail.com
-- 😄 Pronouns: ela/dela
+
 
 
 
