@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ana Gabriela</h1>
 <h3 align="center">A passionate initial developer from Brazil</h3>
 
-- 🔭 I’m currently working on **back-end with php (laravel)**
+- 🔭 I’m currently working on **back-end with node (ts)**
 
 - 🌱 I’m currently learning **Full stacks**
 
