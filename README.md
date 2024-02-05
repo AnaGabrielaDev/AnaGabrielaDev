@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **anagabrieladev@gmail.com**
 
-- ⚡ Fun fact **One thing I know I do well (or better than most) is hunt for words**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
